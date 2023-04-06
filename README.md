@@ -13,3 +13,5 @@ One of my YouTube subscribers requested that I create this. So I did! It's a sim
 ## License
 
 This template is available under the CC0 license.
+
+# NOTE: Support for this mod beyond Minecraft 1.19.2 is now here: [Zombie Jerky](https://github.com/kestalkayden/zombie-jerky)
